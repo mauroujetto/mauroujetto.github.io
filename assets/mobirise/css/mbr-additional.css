@@ -1107,44 +1107,14 @@ section.lazy-placeholder:after {
 }
 .cid-rJApv5cpcS .mbr-text,
 .cid-rJApv5cpcS .mbr-section-btn {
-  text-align: center;
+  text-align: left;
 }
 .cid-rJApv5cpcS H3 {
-  text-align: right;
+  text-align: center;
   color: #efefef;
 }
 .cid-rJAoZsq35y {
   background-image: url("../../../assets/images/david-edelstein-n4dbvtudikw-unsplash-2000x1333.jpg");
-}
-.cid-rJAr0TjdOj {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/sami-l3a0195-2000x1333.jpg");
-}
-.cid-rJAr0TjdOj .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rJAr0TjdOj .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rJAr0TjdOj .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-rJAr0TjdOj .mbr-text,
-.cid-rJAr0TjdOj .mbr-section-btn {
-  text-align: center;
-}
-.cid-rJ1ql1nVQn {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
 .cid-rJBdwuwria .modal-body .close {
   background: #1b1b1b;
@@ -1383,4 +1353,40 @@ section.lazy-placeholder:after {
 }
 .cid-rJBdwuwria .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-rJBdwuwria H2 {
+  text-align: left;
+}
+.cid-rJBdwuwria P {
+  text-align: left;
+}
+.cid-rJAr0TjdOj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/sami-l3a0195-2000x1333.jpg");
+}
+.cid-rJAr0TjdOj .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rJAr0TjdOj .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rJAr0TjdOj .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-rJAr0TjdOj .mbr-text,
+.cid-rJAr0TjdOj .mbr-section-btn {
+  text-align: center;
+}
+.cid-rJ1ql1nVQn {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
