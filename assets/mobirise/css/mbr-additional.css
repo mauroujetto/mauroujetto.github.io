@@ -1385,6 +1385,25 @@ section.lazy-placeholder:after {
 .cid-rJAr0TjdOj .mbr-section-btn {
   text-align: center;
 }
+.cid-rJGr2zN84N {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #efefef, #232323);
+}
+@media (min-width: 992px) {
+  .cid-rJGr2zN84N .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rJGr2zN84N .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rJGr2zN84N .mbr-text,
+.cid-rJGr2zN84N .mbr-section-btn {
+  text-align: left;
+}
 .cid-rJ1ql1nVQn {
   padding-top: 30px;
   padding-bottom: 30px;
